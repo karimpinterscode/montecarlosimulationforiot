@@ -1,0 +1,7 @@
+{
+    "name": ["Azure Active Directory B2C", "CosmosDb", "PostgreSQL", "IoT Hub",
+    "App Service", "VM", "VM2", "Azure Container Registry", "Storage accounts", "Azure NAT Gateway" ],
+    "availability": ["0.9999", "0.9999", "0.999", "0.999", 
+    "0.9995", "0.999  ", "0.999", "0.999", "0.999", "0.9999"]       
+}
+
